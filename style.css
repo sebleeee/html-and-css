@@ -1,0 +1,51 @@
+html {}
+
+body {
+    background-color: #FFF8F0;
+    font-weight: 700;
+    font-family: "inter", sans-serif;
+    line-height: 24px;
+    color: #55206D;
+
+
+}
+
+h1,
+{
+
+font-family: League Spartan;
+font-weight: 400;
+font-style: Regular;
+font-size: 48px;
+
+
+line-height: 50px;
+ color: #190D37;
+
+
+}
+
+h2 {
+    font-family: "League Spartan" sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+
+    line-height: 40px;
+
+    color: #000000;
+    ;
+
+}
+
+.bigtext {
+    font-family: "Poppins" sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+
+    line-height: 32px;
+    color: #331E6A;
+
+
+}
